@@ -1,6 +1,6 @@
 # Fatima Pura's Portfolio
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and contact information. Below are the instructions to help you navigate through it.
+Welcome to my personal portfolio! This website showcases my personal information, skills, projects, and contact information. Below are the instructions to help you navigate through it.
 
 ## Table of Contents
 1. [Home](#home)
