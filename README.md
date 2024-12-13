@@ -1,4 +1,4 @@
-# Fatima Pura Portfolio
+# Fatima Pura's Portfolio
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and contact information. Below are the instructions to help you navigate through it.
 
