@@ -10,7 +10,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 5. [Contact](#contact)
 
 ## Home
-The **Home** section introduces you to who I am. You’ll find my tagline, "YOUNG DREAMER," and a brief introduction about myself as a first-year BS Computer Science student. If you'd like to know more about me, click the "About Me" button.
+The **Home** section introduces you to who I am. You’ll find my tagline, "YOUNG DREAMER, builder of possibilities" and a brief introduction about myself as a first-year BS Computer Science student. If you'd like to know more about me, click the "About Me" button.
 
 - Links to my social media (Facebook, Instagram, LinkedIn, GitHub) are also available for connection.
 
@@ -20,16 +20,16 @@ The **Home** section introduces you to who I am. You’ll find my tagline, "YOUN
 The **About** section provides a more detailed description of me, including:
 - A brief overview of my background and my current academic journey.
 - My name, birthday, age, year, program, school, and address.
-- My completed projects.
+- The number of my completed projects.
 
 ![Portfolio Screenshot](readme-images/about.png)
 
 ## Skills
-In the **Skills** section, you can explore the programming languages and technologies I am practicing and working with:
+In the **Skills** section, you can see the programming languages and technologies I am practicing and working with:
 - **Frontend Development**: HTML, CSS, JavaScript
 - **Backend Development**: Python, C++
 - **Frameworks**: Tailwind, React
-- **Tools**: VS Code, DevC++, GitHub, Git
+- **Tools**: VSCode, DevC++, GitHub, Git
 
 ![Portfolio Screenshot](readme-images/skills.png)
 
@@ -44,7 +44,7 @@ Click on the GitHub icon to view the project code.
 ![Portfolio Screenshot](readme-images/projects.png)
 
 ## Contact
-The **Contact** section provides links to my social media profiles. Feel free to reach out through these platforms for any inquiries or collaboration opportunities.
+The **Contact** section provides links to my social media profiles. Feel free to reach out through these platforms for any inquiries.
 
 ![Portfolio Screenshot](readme-images/contact.png)
 
